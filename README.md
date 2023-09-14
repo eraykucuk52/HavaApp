@@ -1,2 +1,2 @@
 # HavaApp
-python, qml, pyside6
+# python, qml, pyside6
